@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="IMANTEK">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#124e8c"/>
+      <stop offset="1" stop-color="#d26914"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#f5f7fa"/>
+  <rect x="5" y="5" width="54" height="54" rx="12" fill="url(#bg)"/>
+  <path fill="#ffffff" d="M15 43h34v6H15v-6Zm3-21 9 5v-5l9 5v-9h9v25H18V22Zm6 15h4v-5h-4v5Zm8 0h4v-5h-4v5Zm8 0h4v-5h-4v5Z"/>
+  <text x="32" y="17" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" fill="#ffffff" letter-spacing=".7">IM</text>
+</svg>
