@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     '.service-card', '.mvv-card', '.step',
     '.roadmap-year', '.opp-card', '.diff-item',
     '.market-card', '.cinfo-card', '.about-desc',
-    '.mvv-cards', '.section-header'
+    '.mvv-cards', '.section-header', '.sector-card-item'
   ];
   document.querySelectorAll(animTargets.join(', ')).forEach(el => {
     el.classList.add('fade-up');
